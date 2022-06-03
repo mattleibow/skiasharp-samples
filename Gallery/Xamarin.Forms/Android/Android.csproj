@@ -58,11 +58,11 @@
     <PackageReference Include="Xamarin.Forms" Version="4.8.0.1821" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="HarfBuzzSharp" Version="2.8.2-preview.0" />
-    <PackageReference Include="SkiaSharp" Version="2.88.0-preview.0" />
-    <PackageReference Include="SkiaSharp.HarfBuzz" Version="2.88.0-preview.0" />
-    <PackageReference Include="SkiaSharp.Views.Forms" Version="2.88.0-preview.0" />
-    <PackageReference Include="SkiaSharp.Views" Version="2.88.0-preview.0" />
+    <PackageReference Include="HarfBuzzSharp" Version="2.8.2" />
+    <PackageReference Include="SkiaSharp" Version="2.88.0" />
+    <PackageReference Include="SkiaSharp.HarfBuzz" Version="2.88.0" />
+    <PackageReference Include="SkiaSharp.Views.Forms" Version="2.88.0" />
+    <PackageReference Include="SkiaSharp.Views" Version="2.88.0" />
     <ProjectReference Include="..\Core\Core.csproj">
       <Project>{9AE564B8-2EF7-4102-B83A-89A03D4EA05C}</Project>
       <Name>Core</Name>

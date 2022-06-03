@@ -86,10 +86,10 @@
     <PackageReference Include="Xamarin.Essentials" Version="1.5.1" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="HarfBuzzSharp" Version="2.8.2-preview.0" />
-    <PackageReference Include="SkiaSharp" Version="2.88.0-preview.0" />
-    <PackageReference Include="SkiaSharp.HarfBuzz" Version="2.88.0-preview.0" />
-    <PackageReference Include="SkiaSharp.Views" Version="2.88.0-preview.0" />
+    <PackageReference Include="HarfBuzzSharp" Version="2.8.2" />
+    <PackageReference Include="SkiaSharp" Version="2.88.0" />
+    <PackageReference Include="SkiaSharp.HarfBuzz" Version="2.88.0" />
+    <PackageReference Include="SkiaSharp.Views" Version="2.88.0" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Main.cs" />

@@ -5,7 +5,7 @@
     <LangVersion>8.0</LangVersion>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="SkiaSharp" Version="2.88.0-preview.0" />
-    <PackageReference Include="SkiaSharp.NativeAssets.Linux" Version="2.88.0-preview.0" />
+    <PackageReference Include="SkiaSharp" Version="2.88.0" />
+    <PackageReference Include="SkiaSharp.NativeAssets.Linux" Version="2.88.0" />
   </ItemGroup>
 </Project>

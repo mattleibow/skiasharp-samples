@@ -99,12 +99,12 @@
   <ItemGroup>
     <PackageReference Include="OpenTK" Version="3.1.0" />
     <PackageReference Include="OpenTK.GLControl" Version="3.1.0" />
-    <PackageReference Include="HarfBuzzSharp" Version="2.8.2-preview.0" />
-    <PackageReference Include="SkiaSharp" Version="2.88.0-preview.0" />
-    <PackageReference Include="SkiaSharp.HarfBuzz" Version="2.88.0-preview.0" />
-    <PackageReference Include="SkiaSharp.Views.Desktop.Common" Version="2.88.0-preview.0" />
-    <PackageReference Include="SkiaSharp.Views.WindowsForms" Version="2.88.0-preview.0" />
-    <PackageReference Include="SkiaSharp.Views.WPF" Version="2.88.0-preview.0" />
+    <PackageReference Include="HarfBuzzSharp" Version="2.8.2" />
+    <PackageReference Include="SkiaSharp" Version="2.88.0" />
+    <PackageReference Include="SkiaSharp.HarfBuzz" Version="2.88.0" />
+    <PackageReference Include="SkiaSharp.Views.Desktop.Common" Version="2.88.0" />
+    <PackageReference Include="SkiaSharp.Views.WindowsForms" Version="2.88.0" />
+    <PackageReference Include="SkiaSharp.Views.WPF" Version="2.88.0" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">

@@ -185,7 +185,7 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="SkiaSharp" Version="2.88.0-preview.0" />
+    <PackageReference Include="SkiaSharp" Version="2.88.0" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

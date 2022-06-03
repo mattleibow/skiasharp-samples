@@ -51,10 +51,10 @@
     <PackageReference Include="Microsoft.Extensions.Logging.Filter" Version="1.1.1" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="HarfBuzzSharp" Version="2.8.2-preview.0" />
-    <PackageReference Include="SkiaSharp" Version="2.88.0-preview.0" />
-    <PackageReference Include="SkiaSharp.HarfBuzz" Version="2.88.0-preview.0" />
-    <PackageReference Include="SkiaSharp.Views.Uno" Version="2.88.0-preview.0" />
+    <PackageReference Include="HarfBuzzSharp" Version="2.8.2" />
+    <PackageReference Include="SkiaSharp" Version="2.88.0" />
+    <PackageReference Include="SkiaSharp.HarfBuzz" Version="2.88.0" />
+    <PackageReference Include="SkiaSharp.Views.Uno" Version="2.88.0" />
   </ItemGroup>
   <ItemGroup>
     <ImageAsset Include="Assets.xcassets\**\*.json" Visible="false" />

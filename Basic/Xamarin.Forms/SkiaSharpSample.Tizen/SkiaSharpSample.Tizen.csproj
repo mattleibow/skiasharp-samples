@@ -14,8 +14,8 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SkiaSharpSample\SkiaSharpSample.csproj" />
-    <PackageReference Include="SkiaSharp.Views.Forms" Version="2.88.0-preview.0" />
-    <PackageReference Include="SkiaSharp.Views" Version="2.88.0-preview.0" />
-    <PackageReference Include="SkiaSharp" Version="2.88.0-preview.0" />
+    <PackageReference Include="SkiaSharp.Views.Forms" Version="2.88.0" />
+    <PackageReference Include="SkiaSharp.Views" Version="2.88.0" />
+    <PackageReference Include="SkiaSharp" Version="2.88.0" />
   </ItemGroup>
 </Project>

@@ -120,8 +120,8 @@
     <PackageReference Include="Uno.Core" Version="2.3.0" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="SkiaSharp" Version="2.88.0-preview.0" />
-    <PackageReference Include="SkiaSharp.Views" Version="2.88.0-preview.0" />
+    <PackageReference Include="SkiaSharp" Version="2.88.0" />
+    <PackageReference Include="SkiaSharp.Views" Version="2.88.0" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
