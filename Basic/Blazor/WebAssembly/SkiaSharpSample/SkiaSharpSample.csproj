@@ -15,8 +15,8 @@
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="6.0.0" PrivateAssets="all" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="SkiaSharp" Version="2.88.0" />
-    <PackageReference Include="SkiaSharp.Views.Blazor" Version="2.88.0" />
+    <PackageReference Include="SkiaSharp" Version="2.88.1-preview.1" />
+    <PackageReference Include="SkiaSharp.Views.Blazor" Version="2.88.1-preview.1" />
     <!--<Reference Include="..\..\..\..\..\source\SkiaSharp.Views.Blazor\SkiaSharp.Views.Blazor\bin\$(Configuration)\net6.0\SkiaSharp.Views.Blazor.dll" />-->
   </ItemGroup>
 </Project>

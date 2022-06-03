@@ -91,11 +91,11 @@
   <ItemGroup>
     <PackageReference Include="OpenTK" Version="3.1.0" />
     <PackageReference Include="OpenTK.GLControl" Version="3.1.0" />
-    <PackageReference Include="HarfBuzzSharp" Version="2.8.2" />
-    <PackageReference Include="SkiaSharp" Version="2.88.0" />
-    <PackageReference Include="SkiaSharp.HarfBuzz" Version="2.88.0" />
-    <PackageReference Include="SkiaSharp.Views.Desktop.Common" Version="2.88.0" />
-    <PackageReference Include="SkiaSharp.Views.WindowsForms" Version="2.88.0" />
+    <PackageReference Include="HarfBuzzSharp" Version="2.8.2.1-preview.1" />
+    <PackageReference Include="SkiaSharp" Version="2.88.1-preview.1" />
+    <PackageReference Include="SkiaSharp.HarfBuzz" Version="2.88.1-preview.1" />
+    <PackageReference Include="SkiaSharp.Views.Desktop.Common" Version="2.88.1-preview.1" />
+    <PackageReference Include="SkiaSharp.Views.WindowsForms" Version="2.88.1-preview.1" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Form1.cs">

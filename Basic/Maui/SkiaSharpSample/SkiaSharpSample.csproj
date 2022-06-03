@@ -30,9 +30,9 @@
     <Reference Include="..\..\..\..\source\SkiaSharp.Views.Maui\SkiaSharp.Views.Maui.Controls\bin\Debug\net6.0-windows10.0.19041\SkiaSharp.Views.Maui.Controls.dll" />
     <Reference Include="..\..\..\..\source\SkiaSharp.Views.Maui\SkiaSharp.Views.Maui.Core\bin\Debug\net6.0-windows10.0.19041\SkiaSharp.Views.Maui.Core.dll" />
     <Reference Include="..\..\..\..\source\SkiaSharp.Views.WinUI\SkiaSharp.Views.WinUI\bin\Debug\net5.0-windows10.0.18362\SkiaSharp.Views.Windows.dll" />-->
-    <PackageReference Include="SkiaSharp" Version="2.88.0" />
-    <PackageReference Include="SkiaSharp.Views.Maui.Controls.Compatibility" Version="2.88.0" />
-    <PackageReference Include="SkiaSharp.Views.Maui.Controls" Version="2.88.0" />
+    <PackageReference Include="SkiaSharp" Version="2.88.1-preview.1" />
+    <PackageReference Include="SkiaSharp.Views.Maui.Controls.Compatibility" Version="2.88.1-preview.1" />
+    <PackageReference Include="SkiaSharp.Views.Maui.Controls" Version="2.88.1-preview.1" />
   </ItemGroup>
   <ItemGroup Condition="$(TargetFramework.Contains('-windows'))" />
 </Project>
