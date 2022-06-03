@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>8.0</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.8.0.1821" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="HarfBuzzSharp" Version="2.8.2-preview.0" />
+    <PackageReference Include="SkiaSharp" Version="2.88.0-preview.0" />
+    <PackageReference Include="SkiaSharp.HarfBuzz" Version="2.88.0-preview.0" />
+    <PackageReference Include="SkiaSharp.Views.Forms" Version="2.88.0-preview.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\Shared\Samples\*.cs" Link="Shared\Samples\%(Filename)%(Extension)" />
+    <Compile Include="..\..\Shared\*.cs" Link="Shared\%(Filename)%(Extension)" />
+    <EmbeddedResource Include="..\..\Shared\Media\*" Link="Media\%(Filename)%(Extension)" />
+    <EmbeddedResource Remove="..\..\Shared\Media\content-font.ttf" />
+  </ItemGroup>
+</Project>

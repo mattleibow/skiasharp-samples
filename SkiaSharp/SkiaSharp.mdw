@@ -1,7 +1,0 @@
-<WorkspaceItem ctype="Workspace">
-  <Items>
-    <Item>../Skia.OSX.Demo/Skia.OSX.Demo.sln</Item>
-    <Item>../Skia.Forms.Demo/Skia.Forms.Demo.sln</Item>
-    <Item>../Skia.WindowsDesktop.Demo/Skia.WindowsDesktop.Demo.sln</Item>
-  </Items>
-</WorkspaceItem>

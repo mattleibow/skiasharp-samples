@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Tizen.NET.Sdk/1.0.9">
+  <PropertyGroup>
+    <TargetFramework>tizen40</TargetFramework>
+    <OutputType>Exe</OutputType>
+    <DefineConstants>$(DefineConstants);__TIZEN__;</DefineConstants>
+    <LangVersion>8.0</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.8.0.1821" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="SkiaSharp.Views.Forms" Version="2.88.0-preview.0" />
+    <PackageReference Include="SkiaSharp.Views" Version="2.88.0-preview.0" />
+    <PackageReference Include="SkiaSharp" Version="2.88.0-preview.0" />
+  </ItemGroup>
+</Project>
