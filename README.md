@@ -1,8 +1,6 @@
 # SkiaSharp Samples
 
-This folder contains many samples to demonstrate both platforms and features.
-
-## This Folder
+This repo contains many samples to demonstrate both platforms and features. Any issues or changes must go through the official SkiaSharp repo as this repo is just a mirror of the samples directory and updated on each release.
 
 There are 2 main types of sample apps in this folder:
 
