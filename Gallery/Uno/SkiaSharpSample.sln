@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30229.9
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32515.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SkiaSharpSample.Shared", "SkiaSharpSample.Shared\SkiaSharpSample.Shared.shproj", "{6279C845-92F8-4333-AB99-3D213163593C}"
 EndProject
@@ -22,16 +22,6 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkiaSharpSample.WPF.Host", "SkiaSharpSample.WPF.Host\SkiaSharpSample.WPF.Host.csproj", "{A4D1E47E-78B8-4B61-86B3-4F36D5AF62A2}"
 EndProject
 Global
-	GlobalSection(SharedMSBuildProjectFiles) = preSolution
-		SkiaSharpSample.Shared\SkiaSharpSample.Shared.projitems*{2a19c71c-d1ab-4c70-b821-6a7c7c4abe66}*SharedItemsImports = 4
-		SkiaSharpSample.Shared\SkiaSharpSample.Shared.projitems*{3ca0ee89-76c2-4a8e-96d6-9c5f2b05905e}*SharedItemsImports = 5
-		SkiaSharpSample.Shared\SkiaSharpSample.Shared.projitems*{6279c845-92f8-4333-ab99-3d213163593c}*SharedItemsImports = 13
-		SkiaSharpSample.Shared\SkiaSharpSample.Shared.projitems*{8b8db39e-c0ff-4edc-83a6-0b6a4ab763ee}*SharedItemsImports = 4
-		SkiaSharpSample.Shared\SkiaSharpSample.Shared.projitems*{9726301d-8a93-4a06-88df-92ba01cf80ad}*SharedItemsImports = 5
-		SkiaSharpSample.Shared\SkiaSharpSample.Shared.projitems*{ae39aa1d-32c8-482b-9395-ad5493c98f7e}*SharedItemsImports = 4
-		SkiaSharpSample.Shared\SkiaSharpSample.Shared.projitems*{b3a30dc3-0e2d-4f46-97c5-fdc6ab8062e6}*SharedItemsImports = 4
-		SkiaSharpSample.Shared\SkiaSharpSample.Shared.projitems*{ff61f844-f706-4503-8074-dcd0bfa57125}*SharedItemsImports = 5
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|ARM = Debug|ARM
@@ -316,5 +306,15 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ADE449F3-A69B-4F43-BB03-E0C3C98E83BB}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		SkiaSharpSample.Shared\SkiaSharpSample.Shared.projitems*{2a19c71c-d1ab-4c70-b821-6a7c7c4abe66}*SharedItemsImports = 4
+		SkiaSharpSample.Shared\SkiaSharpSample.Shared.projitems*{3ca0ee89-76c2-4a8e-96d6-9c5f2b05905e}*SharedItemsImports = 5
+		SkiaSharpSample.Shared\SkiaSharpSample.Shared.projitems*{6279c845-92f8-4333-ab99-3d213163593c}*SharedItemsImports = 13
+		SkiaSharpSample.Shared\SkiaSharpSample.Shared.projitems*{8b8db39e-c0ff-4edc-83a6-0b6a4ab763ee}*SharedItemsImports = 4
+		SkiaSharpSample.Shared\SkiaSharpSample.Shared.projitems*{9726301d-8a93-4a06-88df-92ba01cf80ad}*SharedItemsImports = 5
+		SkiaSharpSample.Shared\SkiaSharpSample.Shared.projitems*{ae39aa1d-32c8-482b-9395-ad5493c98f7e}*SharedItemsImports = 4
+		SkiaSharpSample.Shared\SkiaSharpSample.Shared.projitems*{b3a30dc3-0e2d-4f46-97c5-fdc6ab8062e6}*SharedItemsImports = 4
+		SkiaSharpSample.Shared\SkiaSharpSample.Shared.projitems*{ff61f844-f706-4503-8074-dcd0bfa57125}*SharedItemsImports = 5
 	EndGlobalSection
 EndGlobal

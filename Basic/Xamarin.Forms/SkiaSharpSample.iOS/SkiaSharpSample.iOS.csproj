@@ -72,9 +72,9 @@
     <PackageReference Include="Xamarin.Forms" Version="4.8.0.1821" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="SkiaSharp" Version="2.88.1-preview.1" />
-    <PackageReference Include="SkiaSharp.Views.Forms" Version="2.88.1-preview.1" />
-    <PackageReference Include="SkiaSharp.Views" Version="2.88.1-preview.1" />
+    <PackageReference Include="SkiaSharp" Version="2.88.1" />
+    <PackageReference Include="SkiaSharp.Views.Forms" Version="2.88.1" />
+    <PackageReference Include="SkiaSharp.Views" Version="2.88.1" />
     <ProjectReference Include="..\SkiaSharpSample\SkiaSharpSample.csproj">
       <Project>{7CF655F1-590C-4A0B-92A4-78D104AD38E9}</Project>
       <Name>SkiaSharpSample</Name>

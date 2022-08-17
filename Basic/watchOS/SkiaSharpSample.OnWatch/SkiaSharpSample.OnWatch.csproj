@@ -91,8 +91,8 @@
       <Project>{9B82BB1F-18DD-47A6-B4DD-10310A27FE00}</Project>
       <Name>SkiaSharpSample.OnWatchExtension</Name>
     </ProjectReference>
-    <PackageReference Include="SkiaSharp" Version="2.88.1-preview.1" />
-    <PackageReference Include="SkiaSharp.Views" Version="2.88.1-preview.1" />
+    <PackageReference Include="SkiaSharp" Version="2.88.1" />
+    <PackageReference Include="SkiaSharp.Views" Version="2.88.1" />
   </ItemGroup>
   <ItemGroup>
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json" />

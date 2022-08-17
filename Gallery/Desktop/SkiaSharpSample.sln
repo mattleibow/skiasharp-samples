@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29027.242
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32515.10
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkiaSharpSample", "SkiaSharpSample\SkiaSharpSample.csproj", "{F9B5AA70-AA4E-438D-A48E-CF5B638E55A8}"
 EndProject
